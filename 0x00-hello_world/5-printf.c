@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
 * main - prints out a string via printf
@@ -8,4 +7,5 @@
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
+	return ()
+}
